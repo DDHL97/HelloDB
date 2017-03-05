@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloDB</string>
+    <string name="title">List of people</string>
+</resources>
